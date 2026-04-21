@@ -1,114 +1,37 @@
-<!DOCTYPE html>
 ---
 layout: default
 title: Home
 ---
-<html>
-<head>
-    <title>Christine Moige - CV</title>
-    <style>
-        body {
-            font-family: 'Calibri', 'Arial', sans-serif;
-            line-height: 1.4;
-            max-width: 900px;
-            margin: auto;
-            padding: 20px;
-            color: #333;
-        }
-        h1 {
-            font-size: 28px;
-            margin-bottom: 5px;
-            color: #2c3e50;
-        }
-        .subhead {
-            font-size: 18px;
-            color: #555;
-            margin-top: 0;
-        }
-        .contact {
-            font-size: 14px;
-            margin-bottom: 20px;
-            padding-bottom: 10px;
-            border-bottom: 2px solid #2c3e50;
-        }
-        h2 {
-            font-size: 18px;
-            background: #2c3e50;
-            color: white;
-            padding: 5px 10px;
-            margin-top: 20px;
-            margin-bottom: 10px;
-        }
-        h3 {
-            font-size: 16px;
-            margin-bottom: 5px;
-            color: #2c3e50;
-        }
-        .job-title {
-            font-weight: bold;
-        }
-        .company {
-            font-style: italic;
-        }
-        .date {
-            float: right;
-            color: #666;
-        }
-        ul {
-            margin-top: 5px;
-            margin-bottom: 15px;
-            padding-left: 20px;
-        }
-        li {
-            margin-bottom: 5px;
-        }
-        .referee {
-            margin-bottom: 10px;
-        }
-        hr {
-            border: none;
-            border-top: 1px solid #ccc;
-        }
-        @media print {
-            body {
-                margin: 0;
-                padding: 10px;
-            }
-            h2 {
-                background: #2c3e50;
-                -webkit-print-color-adjust: exact;
-                print-color-adjust: exact;
-            }
-        }
-    </style>
-</head>
-<body>
-    <h1>CHRISTINE MOIGE</h1>
-    <div class="subhead">IT Support Specialist|Data Analyst</div>
-    <div class="contact">
-        📞 +254 (0) 712 954 702 | ✉ moigechristinenyayiemi@gmail.com
-    </div>
 
-    <h2>Professional Summary</h2>
-    <p>Dedicated IT Support Officer with over 7 years of experience in the financial, construction, and education sectors. Proven track record in ICT infrastructure management, network administration, user support, IT security and Data analysis .</p>
+<div class="container">
+  <h1>CHRISTINE MOIGE</h1>
+  <h2>IT Support Specialist | Data Analyst</h2>
+  
+  <p>
+    📞 +254 (0) 712 954 702 | 
+    📧 moigechristinenyayiemi@gmail.com
+  </p>
 
-    <h2>Core Competencies & Technical Skills</h2>
-    <ul>
-        <li>ICT Support & Administration (7+ years) – Financial, construction, education sectors</li>
-        <li>Networking: Active Directory, DHCP, DNS, switching/routing, SSL/IPSec</li>
-        <li>Microsoft Ecosystem: Dynamics CRM, SharePoint, Office 365, Windows (7-11)</li>
-        <li>Hardware: Servers, routers, switches, biometric devices, network cabling</li>
-        <li>Virtualization, disaster recovery, database design</li>
-        <li>Data Analysis with Power BI and Tableau
-        <li>User training, vendor negotiation, remote support (AnyDesk, MAXIMO)</li>
-    </ul>
+  <h3>Professional Summary</h3>
+  <p>
+    Dedicated IT Support Officer with over 7 years of experience in the financial, 
+    construction, and education sectors. Proven track record in ICT infrastructure 
+    management, network administration, user support, IT security and Data analysis.
+  </p>
 
-    
-    <a href="/Christine_Moige_CV.pdf" download>Download my CV (PDF)</a>
-    <p>
-    <a href="https://github.com/christinemoige/my-portfolio-projects" target="_blank">
-        🔗 View My Detailed Project Portfolio →
-    </a>
-</p>
-</body>
-</html>
+  <h3>Core Competencies & Technical Skills</h3>
+  <ul>
+    <li>ICT Support & Administration (7+ years) – Financial, construction, education sectors</li>
+    <li>Networking: Active Directory, DHCP, DNS, switching/routing, SSL/IPSec</li>
+    <li>Microsoft Ecosystem: Dynamics CRM, SharePoint, Office 365, Windows (7-11)</li>
+    <li>Hardware: Servers, routers, switches, biometric devices, network cabling</li>
+    <li>Virtualization, disaster recovery, database design</li>
+    <li>Data Analysis with Power BI and Tableau</li>
+    <li>User training, vendor negotiation, remote support (AnyDesk, MAXIMO)</li>
+  </ul>
+
+  <p>
+    <a href="/path-to-your-cv.pdf">📄 Download my CV (PDF)</a><br>
+    <a href="/projects/">🔗 View My Detailed Project Portfolio →</a>
+  </p>
+</div>
