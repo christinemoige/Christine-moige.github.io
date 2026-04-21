@@ -31,7 +31,7 @@ title: Home
   </ul>
 
   <p>
-    <a href="/files/assets/christine_moige_CV.pdf">📄 Download my CV (PDF)</a><br> 
+    <a href="/assets/files/christine_moige_CV.pdf">📄 Download my CV (PDF)</a><br> 
     <a href="/projects/">🔗 View My Detailed Project Portfolio →</a>
   </p>
 </div>
