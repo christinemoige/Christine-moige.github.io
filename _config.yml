@@ -7,9 +7,15 @@ plugins:
 - jekyll-remote-theme
 
 # Contact information
-email: moigechristinenyayiemi@gmail.com
-github_username: christinemoige
-linkedin_username: christine-moige  
+github:
+  username: christinemoige
+linkedin:
+  username: christine-moige
+email: 
+  username: moigechristinenyayiemi@gmail.com
+
+# Show these in sidebar
+show_downloads: false  
 
 
 # Build settings
