@@ -13,7 +13,7 @@ email:
   username: moigechristinenyayiemi@gmail.com
 
 # Show these in sidebar
-show_downloads: true 
+show_downloads:false
 
 logo: /profile.png
 
