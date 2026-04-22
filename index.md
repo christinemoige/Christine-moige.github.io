@@ -3,6 +3,11 @@ layout: default
 title: Home
 ---
 
+<div style="text-align: center; margin-bottom: 30px;">
+  <img src="/profile.png" alt="Christine Moige" 
+       style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #ddd;">
+</div>
+
 <div class="container">
   <h1>CHRISTINE MOIGE</h1>
   <h2>IT Support Specialist | Data Analyst</h2>
