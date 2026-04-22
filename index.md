@@ -17,7 +17,9 @@ title: Home
     📧 moigechristinenyayiemi@gmail.com
   </p>
 
-description: Fixing systems. Finding insights. Bridging tech & data
+<p style="text-align: center; font-style: italic; font-weight: bold; font-size: 1.2em; color: #2c3e50; margin: 10px 0;">
+  "Fixing systems. Finding insights. Bridging tech & data"
+</p>
 
   <h3>Professional Summary</h3>
   <p>
