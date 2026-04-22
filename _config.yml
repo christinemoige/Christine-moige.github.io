@@ -1,3 +1,5 @@
+logo: /profile.png
+
 title: Christine Moige - IT Support Specialist|Data Analyst
 description: Fixing systems. Finding insights. Bridging tech & data
 remote_theme: pages-themes/minimal@v0.2.0
@@ -12,8 +14,6 @@ linkedin:
 email: 
   username: moigechristinenyayiemi@gmail.com
 
-
-logo: /profile.png
 
 
 # Sidebar settings
