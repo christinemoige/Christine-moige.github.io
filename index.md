@@ -17,6 +17,8 @@ title: Home
     📧 moigechristinenyayiemi@gmail.com
   </p>
 
+description: Fixing systems. Finding insights. Bridging tech & data
+
   <h3>Professional Summary</h3>
   <p>
     Dedicated IT Support Officer with over 7 years of experience in the financial, 
