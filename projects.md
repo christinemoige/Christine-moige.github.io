@@ -52,7 +52,7 @@ Here are my interactive data visualization projects created with Tableau:
 ### 2. 💻 Remote IT Support System Implementation
 **Client:** Ports Sacco Society Ltd  
 **Role:** Systems Administrator  
-**Technologies:** AnyDesk, VPN, Remote Desktop Gateway, TeamViewer
+**Technologies:** Ninja Remote connect, VPN, Remote Desktop Gateway, TeamViewer
 
 **What I Did:**
 - Implemented certified remote connection platforms for satellite offices
